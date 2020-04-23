@@ -8,8 +8,6 @@ public class equals {
         int j;
         j=i++*2+3*--i;
 
-
-
         int x=2;
         switch (x){
             case 1:
